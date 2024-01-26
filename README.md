@@ -1,4 +1,5 @@
 # Wex test
+This is a technical interview exercise
 
 # Transaction Management Application
 
